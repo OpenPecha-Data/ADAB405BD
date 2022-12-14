@@ -1,0 +1,19 @@
+id: ADAB405BD
+title: Toh_186-The_Teaching_on_the_Extraordinary_Transformation-v2
+type: translation
+pechas:
+- I80EDEC10
+- IB4FC2B25
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-061-006
+  title: Toh_186-The_Teaching_on_the_Extraordinary_Transformation-v2
+alignment_to_base:
+  I80EDEC10/4334: 764F
+  IB4FC2B25/B898: 764F
